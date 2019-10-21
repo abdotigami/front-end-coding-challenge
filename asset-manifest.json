@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/front-end-coding-challenge/static/css/main.b100e6da.chunk.css",
+    "main.js": "/front-end-coding-challenge/static/js/main.d0d665b2.chunk.js",
+    "main.js.map": "/front-end-coding-challenge/static/js/main.d0d665b2.chunk.js.map",
+    "runtime-main.js": "/front-end-coding-challenge/static/js/runtime-main.295612a8.js",
+    "runtime-main.js.map": "/front-end-coding-challenge/static/js/runtime-main.295612a8.js.map",
+    "static/js/2.0b8bfe91.chunk.js": "/front-end-coding-challenge/static/js/2.0b8bfe91.chunk.js",
+    "static/js/2.0b8bfe91.chunk.js.map": "/front-end-coding-challenge/static/js/2.0b8bfe91.chunk.js.map",
+    "index.html": "/front-end-coding-challenge/index.html",
+    "precache-manifest.55b16372aaeb28c73f26e9da728ff81d.js": "/front-end-coding-challenge/precache-manifest.55b16372aaeb28c73f26e9da728ff81d.js",
+    "service-worker.js": "/front-end-coding-challenge/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/front-end-coding-challenge/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/front-end-coding-challenge/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.295612a8.js",
+    "static/js/2.0b8bfe91.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.d0d665b2.chunk.js"
+  ]
+}
